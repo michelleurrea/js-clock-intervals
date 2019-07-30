@@ -3,26 +3,25 @@
 }
 
 #clock img {
-
 }
 
 #hour {
 	position: absolute;
 	left: 10px;
 	top: 10px;
-	transform: rotate(45deg);
+	transform: rotate(0deg);
 }
 
 #minute {
 	position: absolute;
 	left: 10px;
 	top: 10px;
-	transform: rotate(45deg);
+	transform: rotate(0deg);
 }
 
 #second {
 	position: absolute;
 	left: 10px;
 	top: 10px;
-	transform: rotate(45deg);
+	transform: rotate(0deg);
 }
