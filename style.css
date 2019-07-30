@@ -10,28 +10,19 @@
 	position: absolute;
 	left: 10px;
 	top: 10px;
+	transform: rotate(45deg);
 }
 
 #minute {
 	position: absolute;
 	left: 10px;
 	top: 10px;
+	transform: rotate(45deg);
 }
 
 #second {
 	position: absolute;
 	left: 10px;
 	top: 10px;
-}
-
-.hour {
-	/*position: absolute;*/
-}
-
-.minute {
-	/*position: absolute;*/
-}
-
-.clock {
-	/*position: absolute;*/
+	transform: rotate(45deg);
 }
